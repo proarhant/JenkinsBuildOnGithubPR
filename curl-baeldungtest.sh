@@ -1,4 +1,4 @@
 #Expected syntax
-curl --head https://www.baeldungtest.com
+#curl --head https://www.baeldungtest.com
 #Introduce syntax error
-#curl --head https://www.baeldungtest.com -Y SyntaxErrorTestForJenkinsBuild
+curl --head https://www.baeldungtest.com -Y SyntaxErrorTestForJenkinsBuild
