@@ -1,1 +1,1 @@
-curl --head https://www.baeldungtest.com 
+curl --head --syntaxerror https://www.baeldungtest.com 
