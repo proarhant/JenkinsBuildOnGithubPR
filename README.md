@@ -3,7 +3,7 @@
 
 The DevOps workflow deployed in this scenario configures the integration between GitHub and the Jenkins tool that automatically triggers a build and executes the script when a PR is raised on GitHub. The CI tool, Jenkins in this case, then update the build status back to GitHub.
 
-# A Simple Code
+# A Simple Code  with cURL
 ```
 curl --head https://www.baeldungtest.com
 ```
