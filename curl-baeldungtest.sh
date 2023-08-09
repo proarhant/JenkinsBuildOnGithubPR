@@ -1,1 +1,1 @@
-curl --head https://www.baeldungtest.com ---ErrorSyntaxTriggersFailedBuild
+curl --head https://www.baeldungtest.com ---ErrorSyntaxTriggersFailedBuildX
